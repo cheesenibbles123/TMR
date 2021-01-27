@@ -1,6 +1,6 @@
-Simple texture replacement mod
+# Simple texture replacement mod
 
-Current support:
+### Current support:
 
 Character ALB,MET,BMP
 
